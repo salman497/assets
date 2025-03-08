@@ -1,0 +1,2 @@
+# assets
+All public assets
